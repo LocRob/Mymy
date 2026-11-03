@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "com.LocRob.karaya",
-        "sha256_cert_fingerprints": ["22:04:5B:80:AC:89:55:AC:5C:54:98:91:FC:F8:EA:8D:7D:9C:27:8F:FB:BE:51:F1:1F:7B:A9:EA:6A:CD:0C:B1"]
+        "package_name": "io.github.locrob.twa",
+        "sha256_cert_fingerprints": ["36:C6:5D:AB:28:67:36:31:27:57:57:2F:17:F0:0F:C9:B1:65:87:89:C6:10:A5:1C:87:F7:E5:C5:59:E7:C3:CB"]
       }
     }]
